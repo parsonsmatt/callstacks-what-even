@@ -1,0 +1,15 @@
+.idea
+*.cabal
+*.tix
+.stack-work
+prod.env
+dev.env
+dist
+exes
+*.log
+*.aux
+*.hp
+*.prof
+*.ps
+*.lock
+*.temp
